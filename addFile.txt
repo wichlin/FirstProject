@@ -1,2 +1,6 @@
 asdfasdfasdfa
+<<<<<<< HEAD
 conflict
+=======
+change
+>>>>>>> b5398f326e237e05dd1eda60d8fd51a8325286ef
